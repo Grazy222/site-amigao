@@ -1,0 +1,169 @@
+* {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+header {
+  display: block;
+}
+.amigao {
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+.home {
+  display: block;
+}
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+.menu {
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+.x {
+  text-decoration: none;
+  padding: 5px 8px;
+  color: black;
+  background-color: rgb(197, 197, 197);
+}
+
+.email {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+main {
+  display: block;
+}
+.adoteAmigo {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+.botao {
+  padding: 5px 20px;
+  background-color: rgb(197, 197, 197);
+  border-style: none;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 1px 2px 1px rgb(0 0 0 / 37%);
+}
+.sectionSobre {
+  display: block;
+}
+.sobre {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+.text {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.text1 {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.seja {
+  padding: 5px 20px;
+  background-color: rgb(197, 197, 197);
+  border-style: none;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 1px 2px 1px rgb(0 0 0 / 37%);
+}
+.divBola {
+  text-indent: -90000px;
+  margin-top: 50px;
+  width: 246px;
+  height: 246px;
+  background-color: #c4c4c4;
+  border-radius: 50%;
+}
+.adoteH2 {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+.text2 {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.fotodog {
+  display: block;
+}
+.cao {
+  display: inline-block;
+}
+img {
+  width: 200px;
+  height: 150px;
+}
+.nome {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.meses {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.amigaoFooter {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.menuFooter {
+  display: block;
+}
+.insta,
+.face,
+.mrede {
+  width: 2rem;
+  height: 2rem;
+}
